@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Doctor App</string>
+    <string name="facebook_app_id">3043017139283828</string>
+    <string name="fb_login_protocol_scheme">fb3043017139283828</string>
+    <string name="facebook_client_token">2d3aa4f6e3ecd47e0da4eb8be42c229d</string>
+
+
+
+</resources>
